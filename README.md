@@ -11,6 +11,8 @@
 7.	To reach a variable, enter the variable to be searched and symbol table has been checked for corresponding variable, the variable along with its address is displayed as result.
 8.	Stop the program. 
 # PROGRAM
+Developed by: MOHANRAM GUNASEKAR
+Register No: 212223240095
 ```
 #include <stdio.h>
 #include <stdlib.h>
